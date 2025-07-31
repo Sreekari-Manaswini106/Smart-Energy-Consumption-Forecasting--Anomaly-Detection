@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is smart energy consumption?",
+    "answer": "Smart energy consumption refers to using energy efficiently with the help of smart technologies like IoT, AI, and data analytics."
+  },
+  {
+    "question": "What is ARIMA used for?",
+    "answer": "ARIMA is a time series forecasting model used to predict future values based on past data."
+  },
+  {
+    "question": "What is LSTM?",
+    "answer": "LSTM is a type of neural network used to model and predict sequences, especially time series data like energy usage."
+  },
+  {
+    "question": "What is anomaly detection?",
+    "answer": "Anomaly detection is the identification of unusual patterns or outliers that do not conform to expected behavior."
+  },
+  {
+    "question": "What tools are used in this project?",
+    "answer": "This project uses Python, Streamlit, ARIMA, LSTM, and NLP modules like sentence-transformers and LangChain."
+  },
+  {
+    "question": "Can this system detect energy theft?",
+    "answer": "Yes, by identifying anomalies in energy usage patterns, potential energy theft can be detected."
+  },
+  {
+    "question": "What is the purpose of the dashboard?",
+    "answer": "The dashboard helps visualize energy data, forecast consumption, and detect anomalies in an interactive way."
+  },
+  {
+    "question": "How does the NLP assistant work?",
+    "answer": "The NLP assistant compares your question to a set of predefined FAQs using embeddings and cosine similarity."
+  },
+  {
+    "question": "Can I extend this project with real-time data?",
+    "answer": "Yes, you can integrate APIs or sensors to fetch real-time energy usage data for live forecasting and monitoring."
+  },
+  {
+    "question": "Is this system scalable?",
+    "answer": "Yes, with proper backend and data pipeline adjustments, it can handle large datasets and multiple users."
+  }
+]
